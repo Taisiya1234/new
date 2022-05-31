@@ -1,4 +1,14 @@
 .img1 {
    width:400px;
+   height: 400px;
    margin-left:80px;
   }
+
+footer {
+   background-color: orange;
+}
+   
+img {
+ width:400px;
+ margin-left:80px;
+}
